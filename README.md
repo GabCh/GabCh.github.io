@@ -6,7 +6,7 @@ I'm a student from Université Laval in Quebec City. I love to work on great cha
 [Link to repository (GitHub)](https://github.com/GabCh/Nodes)
 ![This is normally animated](https://i.imgur.com/NXX8qKx.png)
 
-## 3D Scene generator using OpenFrameworks
+## 3D Scene generator using OpenFrameworks :
 [Link to repository (Bitbucket)](https://bitbucket.org/Jouramie/infographie-h2017)
 ![Complete interface](https://i.imgur.com/4xX2MTk.png)
 
