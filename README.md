@@ -2,7 +2,7 @@
 
 ## Background animations using Processing :
 [Repository](https://github.com/GabCh/Nodes)
-[This is normally animated](https://i.imgur.com/NXX8qKx.png)
+![This is normally animated](https://i.imgur.com/NXX8qKx.png)
 
 ## Unix file system project :
 [Repository](https://github.com/GabCh/GLO-2001)
