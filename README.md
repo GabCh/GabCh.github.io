@@ -1,6 +1,7 @@
 # Welcome to GabCh personnal page! 
 ## My bio
 I'm a student from Université Laval in Quebec City. I love to work on great challenge. I started programming a little before university, and I still love it since! Here's some of my projects! 
+Contact: gabriel.chantal.1@ulaval.ca
 
 ## Background animations using Processing :
 [Link to repository (GitHub)](https://github.com/GabCh/Nodes)
