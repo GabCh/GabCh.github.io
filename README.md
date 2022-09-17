@@ -2,7 +2,7 @@
 ## My bio
 I'm a student from Université Laval in Quebec City. I love to work on great challenge. I started programming a little before university, and I still love it since! Here's some of my projects! 
 
-Contact: gabriel.chantal.1@ulaval.ca
+Contact: gabcha25@gmail.com
 
 # Big projects
 ## Small autonomous robot
