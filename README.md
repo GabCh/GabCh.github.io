@@ -6,6 +6,6 @@ Contact: gabcha25@gmail.com
 
 # Quick links
 
-[Home](https://GabCh.github.io/nodes-website)
+[Home](https://GabCh.github.io/home)
 
 [Portfolio](https://GabCh.github.io/portfolio)
